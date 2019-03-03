@@ -11,7 +11,7 @@ Technology：指代涉及[Minecraft](https://minecraft.net/zh-hans/)的所有通
 Education：特指[Minecraft](https://minecraft.net/zh-hans)的教育性质，[JTEM（MTDPS）](https://arbetaperingsky.github.io/JTEM.MTDPS)暂不与之有关。
 
 # 3.什么是MTDPS.
-MTDPS（Minecraft Technology Destroy Parts Shelter）我给它起了个好好点的名字：Minecraft技术零件毁坏收容所。（至少我这么认为）MTDPS是专门针对Minecraft技术性知识作研究的，目的是为了提高玩家对Minecraft的技术认知，同时一定程度上影响了Minecraft技术，编程技术。
+MTDPS（Minecraft Technology Destroy Parts Shelter）我给它起了个好听点的名字：Minecraft技术零件毁坏收容所。（至少我这么认为）MTDPS是专门针对Minecraft技术性知识作研究的，目的是为了提高玩家对Minecraft的技术认知，同时一定程度上影响了Minecraft技术，编程技术。
 
 # 4.关系.
 `JTEM＝MTDPS ＋CMCEPA
