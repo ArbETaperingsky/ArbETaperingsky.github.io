@@ -30,7 +30,7 @@ _V1.4.5.190204_pre1_
 2019/2/19 12:44
 
 Language-En:
-# # introduction to ##JTEM(MTDPS ):
+# introduction to JTEM(MTDPS)
 
 # 1. What is JTEM?
 JTEM ( Just Technology Education [Minecraft](https://minecraft.net/zh-hans/) ) is a platform based on Minecraft sandbox games. According to its original intention, it contains two meanings: Technology and Education.
@@ -40,7 +40,7 @@ Technology: refers to all common technologies involving [Minecraft](https://mine
 Education: specifically refers to the educational nature of Minecraft, and [JTEM（MTDPS）](https://arbetaperingsky.github.io/JTEM.MTDPS) is not relevant for the time being.
 
 # 3. what is MTDPS?
-Mtdps ( Minecraft technology destruction parts shelf ) i gave it a better name: minecraft technology parts destruction shelter. ( at least I think so ) MTDPS is dedicated to the technical knowledge of Minecraft. Its purpose is to improve players' technical knowledge of Minecraft, and at the same time, it affects Minecraft technology and programming technology to some extent.
+MTDPS( Minecraft Technology Destory Parts Shelter ) I give it a better name: Minecraft Technology Destory Parts Shelter. ( at least I think so ) MTDPS is dedicated to the technical knowledge of Minecraft. Its purpose is to improve players' technical knowledge of Minecraft, and at the same time, it affects Minecraft technology and programming technology to some extent.
 
 # 4. Relationships.
 `JTEM＝MTDPS ＋CMCEPA
