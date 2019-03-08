@@ -40,8 +40,10 @@ _V1.4.5.190204_pre1_
 ###########
 
 如何联系到我？
+
 QQ:2753364619
-GMail:ArbETaperingsky@google.com
+
+GMail:ArbETaperingsky@gmail.com
 
 ###########
 2019.3.3
