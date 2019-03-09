@@ -37,13 +37,9 @@ _V1.4.5.190204_pre1_
 你可以[点此](https://arbetaperingsky.github.io/JTEM.MTDPS/)来进入MTDPS的专用网页
 但是！——网页还未设置完全！所以在此感到抱歉！
 
-###########
-
-如何联系到我？
-
-QQ:2753364619
-
-GMail:ArbETaperingsky@gmail.com
-
-###########_
+######\
+如何联系到我？\
+QQ:2753364619@qq.com\
+GMail:ArbETaperingsky@gmail.com\
+######\
 2019.3.3
